@@ -1,0 +1,21 @@
+Author	:	Chirag R. Agarwal, Ankush Jain, Akanksha Saran
+Email	:	chirag.agarwalr@gmail.com
+Team Name	:	FOCII
+Project Name	:	BEAT THE BEAT
+Site	:	http://agarwalchirag.wordpress.com
+
+This project was done as a part of the 5 day MIT Media Labs Design and Innovation workshop, PESIT 2013.
+
+It aims at creating an intelligent music player that studies the dancing patterns of the user and manipulates the music accordingly.
+
+If the user dances fast(slow), the song plays at a faster(slower) speed. If the dancing speed is even faster(slower), the application switches to different track altogether which is faster(slower) than the existing one.
+
+This can help in eliminating the need for a DJ and can prove to be a fun and healthy exercise.
+
+We have used Microsoft Kinect with Synapse API to track the motion of the user. The rest of the part is done in OpenFrameworks in Microsoft Visual C++ IDE.
+
+You can refer to the POSTER.jpg for a quick understanding of the project idea.
+
+Note:
+Make sure to add some songs renamed as 'song1', 'song2' etc. in the "bin/data/" folder.
+
